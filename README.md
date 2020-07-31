@@ -1,9 +1,8 @@
 # TIC-TAC-TOE
 this is simple tic tac toe which you can play with your partner. this is coded in basic C++.
 
-# Software Needed
-you can run it on any software supporting c++
-preferably CodeBlocks
+# Complier
+This Tic Tac Toe game in C++ is compiled in Code::Blocks with gcc compiler. The source code is not that long; it is about 200 lines. You can directly download the source code plus application file from the link below.
 
 # About the Project
 This is a mini project I did when I was learning C++.
